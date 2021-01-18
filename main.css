@@ -3,7 +3,7 @@
   }
 
 #game {
-  display: flex;
+    display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -21,9 +21,9 @@
 
 }
 .gameElem:hover {
-  background-color: grey;
+    background-color: grey;
 }
 #result {
-  color: green;
+    color: green;
     height: 30px;
 }
